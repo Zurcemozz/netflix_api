@@ -1,0 +1,23 @@
+{
+    "launch": {
+
+        "configurations": [],
+        "compounds": []
+    },
+    "extensions.supportVirtualWorkspaces": {
+    
+        "pub.name": false
+    },
+    "emmet.includeLanguages": {
+        "html": "html",
+        "javascript": "javascriptreact",
+        "xml": {
+          "attr_quotes": "single"
+        }
+      },
+      "emmet.triggerExpansionOnTab": true,
+      "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }    // add this in settings.json 
+
+}
